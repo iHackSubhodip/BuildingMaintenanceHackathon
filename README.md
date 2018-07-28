@@ -1,5 +1,9 @@
 # BuildingMaintenanceHackathon
-An iOS app that gives directions from point to point using augmented reality and chat support using the Chatbots[using DialogFlow].
+
+## We have attended 48 hours hackathon organised by Honeywell, and below is the outcome.
+
+An iOS app that gives directions from point to point using augmented reality and chat support using the Chatbots using NLP.
+
 
 ## System Architecture
 
@@ -22,4 +26,27 @@ An iOS app that gives directions from point to point using augmented reality and
 4. CHATBOT will assist with suggested solutions
 5. CHATBOT will provide the options of installation video links and the installation guides.
 6. AR will provide the direction to the installer to reach to the not qualified equipment from his current location.
+
+# Backend is supported with -
+
+1. Google Functions and API
+2. Firebase
+3. NOSQL
+4. Kafka
+
+# Frontend is supported with -
+
+1. iOS application. [iOS 11.0+]
+
+
+# iOS Framework used -
+
+1. ApiAI - For Google Dialogflow.
+2. IQKeyboardManagerSwift - For Managing Keyboard.
+3. JSQMessagesViewController - For building Chat.
+4. ARCL & CocoaLumberjack/Swift - For Augmented Reality.
+
+## Download it and check it in your phone, but it must support > iOS 11.0.
+
+P.S. - As it's a 48 hours hackathon, Code quality and structure isn't maintained properly. :)
 
