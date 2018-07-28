@@ -3,7 +3,8 @@ An iOS app that gives directions from point to point using augmented reality and
 
 ## System Architecture
 
-https://user-images.githubusercontent.com/8708394/43353730-8d741ccc-925c-11e8-9975-47be3ace9afe.png
+<img width="1116" alt="screen shot 2018-07-28 at 11 50 32 am" src="https://user-images.githubusercontent.com/8708394/43353730-8d741ccc-925c-11e8-9975-47be3ace9afe.png">
+
 
 ## What problem we tried to solve.
 
