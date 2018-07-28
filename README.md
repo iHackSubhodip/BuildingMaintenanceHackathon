@@ -8,10 +8,10 @@ An iOS app that gives directions from point to point using augmented reality and
 
 ## What problem we tried to solve.
 
-•DIY support for Installer and Maintenance Technicians
-•Real time report of the current state of the equipment 
-•Minimizing the error rate of misconfigurations
-•Minimizing the dependency on the OEM help. 
+1. DIY support for Installer and Maintenance Technicians
+2. Real time report of the current state of the equipment 
+3. Minimizing the error rate of misconfigurations
+4. Minimizing the dependency on the OEM help. 
 
 
 ## How do we solve
