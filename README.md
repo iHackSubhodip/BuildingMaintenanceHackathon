@@ -27,19 +27,19 @@ An iOS app that gives directions from point to point using augmented reality and
 5. CHATBOT will provide the options of installation video links and the installation guides.
 6. AR will provide the direction to the installer to reach to the not qualified equipment from his current location.
 
-# Backend is supported with -
+## Backend is supported with -
 
 1. Google Functions and API
 2. Firebase
 3. NOSQL
 4. Kafka
 
-# Frontend is supported with -
+## Frontend is supported with -
 
 1. iOS application. [iOS 11.0+]
 
 
-# iOS Framework used -
+## iOS Framework used -
 
 1. ApiAI - For Google Dialogflow.
 2. IQKeyboardManagerSwift - For Managing Keyboard.
