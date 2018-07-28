@@ -1,6 +1,10 @@
 # BuildingMaintenanceHackathon
 An iOS app that gives directions from point to point using augmented reality and chat support using the Chatbots[using DialogFlow].
 
+## System Architecture
+
+https://user-images.githubusercontent.com/8708394/43353730-8d741ccc-925c-11e8-9975-47be3ace9afe.png
+
 ## What problem we tried to solve.
 
 •DIY support for Installer and Maintenance Technicians
