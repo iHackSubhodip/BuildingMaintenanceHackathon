@@ -48,5 +48,10 @@ An iOS app that gives directions from point to point using augmented reality and
 
 ## Download it and check it in your phone, but it must support > iOS 11.0.
 
-P.S. - As it's a 48 hours hackathon, Code quality and structure isn't maintained properly. :)
+P.S. - 
+
+1. As it's a 48 hours hackathon, Code quality and structure isn't maintained properly. :)
+2. Lat, Long's are hardcoded in the ARViewController, add your current lat long's to see the Augmented Reality view.
+
+
 
