@@ -1,0 +1,6 @@
+framework module Pods_BuildingMaintenance {
+  umbrella header "Pods-BuildingMaintenance-umbrella.h"
+
+  export *
+  module * { export * }
+}
